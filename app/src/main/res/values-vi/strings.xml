@@ -17,27 +17,27 @@
     <string name="action_copy_text">Sao chép văn bản</string>
     <string name="action_copy_link_text">Sao chép văn bản liên kết</string>
     <string name="action_tools">Công cụ</string>
-    <string name="settings">Cài Đặt</string>
+    <string name="settings">Cài đặt</string>
     <string name="location">Truy cập Vị trí</string>
     <string name="password">Lưu mật khẩu</string>
     <string name="donate">Ủng hộ</string>
     <string name="donate_details">Nếu bạn thích trình duyệt Via, bạn có thể đóng góp để hỗ trợ chúng tôi.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
-    <string name="orientation">Hướng Màn Hình</string>
+    <string name="orientation">Hướng màn hình</string>
     <string name="follow_system">Hệ thống</string>
     <string name="orientation_auto">Tự động</string>
     <string name="orientation_portrait">Dọc</string>
     <string name="orientation_landscape">Ngang</string>
-    <string name="agent">Dạng xem Trình duyệt</string>
+    <string name="agent">Dạng xem</string>
     <string name="home">Trang chủ</string>
-    <string name="fullscreen">Tự động ẩn Thanh Địa Chỉ</string>
+    <string name="fullscreen">Tự động ẩn thanh Địa Chỉ</string>
     <string name="java">Bật JavaScript</string>
-    <string name="download">Vị Trí Tải Xuống</string>
-    <string name="size">Cỡ Chữ</string>
-    <string name="search">Công Cụ Tìm Kiếm</string>
+    <string name="download">Vị trí tải xuống</string>
+    <string name="size">Cỡ chữ</string>
+    <string name="search">Công cụ tìm kiếm</string>
     <string name="search_hint">Tìm kiếm</string>
     <string name="action_delete">Xóa</string>
     <string name="action_delete_all">Xóa tất cả</string>
-    <string name="action_blank">Trang Trắng</string>
+    <string name="action_blank">Trang trắng</string>
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
@@ -45,15 +45,15 @@
     <string name="agent_custom">Tùy chỉnh</string>
     <string name="dialog_download">Bạn có muốn tải tập tin này?</string>
     <string name="title_warning">Cảnh báo</string>
-    <string name="title_custom_homepage">Tùy chỉnh Trang chủ </string>
+    <string name="title_custom_homepage">Tùy chỉnh trang chủ </string>
     <string name="action_webpage">Trang web</string>
     <string name="hint_title">Tiêu đề</string>
     <string name="hint_url">URL</string>
-    <string name="hint_folder">Thư Mục</string>
+    <string name="hint_folder">Thư mục</string>
     <string name="title_edit_bookmark">Chỉnh sửa Dấu trang</string>
     <string name="action_edit">Sửa đổi</string>
-    <string name="action_incognito">Chế độ Ẩn danh</string>
-    <string name="action_find">Tìm trong Trang</string>
+    <string name="action_incognito">Chế độ ẩn danh</string>
+    <string name="action_find">Tìm trong trang</string>
     <string name="download_pending">Bắt đầu tải xuống\u2026</string>
     <string name="cannot_download">Chỉ có thể tải về URL dạng \"http\" hoặc \"https\".</string>
     <string name="bookmarks_imported">%1$d dấu trang đã được nhập</string>
@@ -63,13 +63,13 @@
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Tìm kiếm 360</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="startpage_url">Trang Bắt Đầu</string>
+    <string name="startpage_url">Trang bắt đầu</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
-    <string name="block_ads">Chặn Quảng cáo</string>
-    <string name="title_form_resubmission">Gửi lại Biểu mẫu</string>
+    <string name="block_ads">Chặn quảng cáo</string>
+    <string name="title_form_resubmission">Gửi lại biểu mẫu</string>
     <string name="message_form_resubmission">Bạn có muốn gửi lại dữ liệu?</string>
     <string name="message_location">\nTrang web cần sử dụng vị trí của bạn</string>
     <string name="action_allow">Đồng ý</string>
@@ -93,11 +93,11 @@
     <string name="toast_operation_done">Thao tác đã được thực hiện</string>
     <string name="volume">Nhấn phím Tăng/Giảm âm lượng để cuộn</string>
     <string name="msg_intent">Bạn muốn mở ứng dụng của mình?</string>
-    <string name="setting_default">Đặt làm Trình duyệt mặc định</string>
+    <string name="setting_default">Đặt làm trình duyệt mặc định</string>
     <string name="toast_clear_defaults">Vui lòng xóa mặc định</string>
     <string name="toast_copy_url_successful">Sao chép liên kết thành công</string>
     <string name="toast_copy_text_successful">Sao chép văn bản thành công</string>
-    <string name="incognito_on">Bạn đã Ẩn danh</string>
+    <string name="incognito_on">Bạn đã ẩn danh</string>
     <string name="incognito_off">Chế độ ẩn danh đã tắt</string>
     <string name="operation_none">Không có</string>
     <string name="operation_reload">Tải lại</string>
@@ -105,26 +105,26 @@
     <string name="operation_bottom">Cuộn xuống cuối trang</string>
     <string name="operation_input">Soạn thảo trong thanh địa chỉ</string>
     <string name="operation_openbookmark">Mở Dấu trang</string>
-    <string name="operation_openhistory">Mở Lịch sử</string>
+    <string name="operation_openhistory">Mở lịch sử</string>
     <string name="operation_closetab">Đóng trang</string>
     <string name="operation_lasttab">Trang trước</string>
     <string name="operation_nexttab">Trang tiếp theo</string>
     <string name="operation_goback">Quay lại</string>
     <string name="operation_goforward">Đi tiếp</string>
-    <string name="settings_operation">Hoạt Động</string>
+    <string name="settings_operation">Hoạt động</string>
     <string name="settings_privacy">Riêng tư</string>
     <string name="settings_advanced">Nâng cao</string>
     <string name="settings_about">Giới thiệu</string>
     <string name="url_box">Nội dung thanh địa chỉ</string>
     <string name="url_box_domain">Tên miền</string>
     <string name="action_pcview">Trang máy tính</string>
-    <string name="action_source">Xem nguồn trang</string>
+    <string name="action_source">Xem mã nguồn</string>
     <string name="action_translate">Dịch</string>
     <string name="title_edit_folder">Chỉnh sửa thư mục</string>
     <string name="msg_delete_folder">Xóa thư mục này?</string>
-    <string name="desc_suggestion">gợi ý</string>
-    <string name="desc_home">trang chủ</string>
-    <string name="desc_menu">menu</string>
+    <string name="desc_suggestion">Gợi ý</string>
+    <string name="desc_home">Trang chủ</string>
+    <string name="desc_menu">Menu</string>
     <string name="action_mark">Đánh dấu là quảng cáo</string>
     <string name="dialog_confirm_mark">Bạn có muốn đánh dấu đây là quảng cáo không?</string>
     <string name="do_not_track">Không theo dõi</string>
@@ -163,7 +163,7 @@
     <string name="text">Văn bản</string>
     <string name="html_code">Html Code</string>
     <string name="action_view_image">Xem ảnh</string>
-    <string name="block_popup">Chặn Popup</string>
+    <string name="block_popup">Chặn popup</string>
     <string name="action_save_web_page">Lưu trang web</string>
     <string name="action_saved_pages">Trang đã lưu</string>
     <string name="saved_page_successfully">Lưu trang thành công, nó nằm trong hộp công cụ: Trang đã lưu</string>
@@ -208,7 +208,7 @@
     <string name="no_bookmark">Không có dấu trang~</string>
     <string name="import_or_export_bookmarks">Nhập/Xuất dấu trang</string>
     <string name="export_bookmarks">Xuất dấu trang</string>
-    <string name="back_forward_gesture">Cử chỉ Quay lại</string>
+    <string name="back_forward_gesture">Cử chỉ quay lại</string>
     <string name="toolbar_settings_hint">Nhấp (trượt) nút dưới đây để thiết lập hành động khi bạn nhấn giữ(trượt), nhấn giữ để xem giá trị đã được thiết lập.</string>
     <string name="action_modify">Chỉnh sửa</string>
     <string name="operation_hint">Cử chỉ, hành động&#8230;</string>
@@ -296,14 +296,14 @@
     <string name="just_now">vừa xong</string>
     <string name="url_is_invalid">URL không hợp lệ.</string>
     <string name="simple_guide_of_writing_rule">Via hỗ trợ hầu hết tất cả các bộ lọc Adblock Plus.
-        \nYou can block requests from example.com with a filter such as:
-        \n||example.com^ (or simply: example.com)
-        \n\nWildcard is acceptable such as:
-        \n||example.com/js/ads_*.js
-        \n\nFor webpage elements use a filter such as:
-        \nexample.com###ad
-        \n\nYou can unblock special requests with a filter such as:
-        \n@@||example.com^</string>
+        Bạn có thể chặn các yêu cầu từ example.com bằng bộ lọc như sau:
+||example.com^ (hoặc đơn giản là: example.com)
+\n\nKý tự đại diện được chấp nhận, ví dụ:
+||example.com/js/ads_*.js
+\n\nĐối với các phần tử trang web, hãy sử dụng bộ lọc như sau:
+\nexample.com###ad
+\n\nBạn có thể bỏ chặn các yêu cầu đặc biệt bằng bộ lọc như sau:
+\n@@||example.com^</string>
     <string name="help">Trợ giúp</string>
     <string name="learn_more">Tìm hiểu thêm</string>
     <plurals name="filters">
@@ -402,24 +402,24 @@
     <string name="view_certificate">Xem chứng chỉ</string>
     <string name="certificate_info">Thông tin chứng chỉ</string>
     <!-- The b tag means bold, And the br tag means line break.  -->
-    <string name="certificate_detail"><![CDATA[        <b>ISSUED TO</b><br />
-        <b>Common Name (CN)</b><br />
-        %1$s
-        <br /><b>Organization (O)</b><br />
-        %2$s
-        <br /><b>Organizational Unit (OU)</b><br />
-        %3$s
-        <br /><br /><b>ISSUED BY</b><br />
-        <b>Common Name (CN)</b><br />
-        %4$s
-        <br /><b>Organization (O)</b><br />
-        %5$s
-        <br /><br /><b>VALIDITY PERIOD</b><br />
-        <b>Issued On</b><br />
-        %6$s
-        <br /><b>Expires On</b><br />
-        %7$s
-        <br />
+    <string name="certificate_detail"><![CDATA[      <b>CẤP CHO</b><br/>
+<b>Tên thông dụng (CN)</b><br/>
+%1$s
+<br/><b>Tổ chức (O)</b><br/>
+%2$s
+<br/><b>Đơn vị tổ chức (OU)</b><br/>
+%3$s
+<br/><br/><b>CẤP BỞI</b><br/>
+<b>Tên thông dụng (CN)</b><br/>
+%4$s
+<br/><b>Tổ chức (O)</b><br/>
+%5$s
+<br/><br/><b>THỜI HẠN HIỆU LỰC</b><br/>
+<b>Ngày cấp</b><br/>
+%6$s
+<br/><b>Ngày hết hạn</b><br/>
+%7$s
+<br/>
     ]]></string>
     <string name="no_certificate">Trang web không có chứng chỉ.</string>
     <string name="site_conf_enabled">Cấu hình trang web (Đã bật)</string>
@@ -552,54 +552,54 @@
     <string name="download_filter_apk">APK</string>
     <string name="download_filter_audio">Âm thanh</string>
     <string name="download_filter_archives">Lưu trữ</string>
-    <string name="simple_guide_of_writing_userscript"><![CDATA[        <b>Metadata block</b><br />
-        The metadata must follow the format:<br />
+    <string name="simple_guide_of_writing_userscript"><![CDATA[        <b>Metadata block</b><br/>
+        Siêu dữ liệu phải tuân theo định dạng sau:<br/>
         <tt>
-        // ==UserScript==<br />
-        // @key value<br />
+        // ==UserScript==<br/>
+        // @key value<br/>
         // ==/UserScript==
         </tt>
-        <br /><br />
-        <b><tt>@name</tt></b>: The name of the userscript.
-        <br /><br />
-        <b><tt>@namespace</tt></b>: The combination of <tt>@namespace</tt> and <tt>@name</tt> is the unique identifier for a userscript.
-        <br /><br />
-        <b><tt>@match/@exclude-match</tt></b>: Define rules to decide whether a script should be executed. It is recommended to use <tt>@match</tt> instead of <tt>@include</tt>.
-        <br /><br />
-        <b><tt>@include/@exclude</tt></b>: The old way to decide whether a script should be executed.
-        <br /><br />
-        <b><tt>@version</tt></b>: The version of the userscript.
-        <br /><br />
-        <b><tt>@description</tt></b>: The description of the userscript.
-        <br /><br />
-        <b><tt>@author</tt></b>: The author of the userscript.
-        <br /><br />
-        <b><tt>@require</tt></b>: The require of the userscript. For example, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
-        <br /><br />
-        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load, <tt>document-idle</tt> is used to inject scripts after page is idle.
-        <br /><br />
-        <b><tt>@grant</tt></b>: Specify which special GM_* APIs should be granted and can be used when the script executes.<br />
-        <br /><br />
-        <b><tt>@downloadURL</tt></b>: The URL the script can be downloaded from.
-        <br /><br />
-        <b><tt>@supportURL</tt></b>: The support URL of the userscript.
-        <br /><br />
-        <b><tt>@homepageURL</tt></b>: The homepage URL of the userscript.
-        <br /><br />
-        <b>GM_* APIs</b><br />
-        <tt>GM_*</tt> are a group of special APIs provided by Via. Currently supported special APIs include: <br/>
+        <br/><br/>
+        <b><tt>@name</tt></b>: Tên của userscript.
+        <br/><br/>
+        <b><tt>@namespace</tt></b>: The combination of <tt>@namespace</tt> và <tt>@name</tt> là mã định danh duy nhất cho một userscript.
+        <br/><br/>
+        <b><tt>@match/@exclude-match</tt></b>: Xác định các quy tắc để quyết định xem một tập lệnh có nên được thực thi hay không. Nên sử dụng<tt>@match</tt> thay vì <tt>@include</tt>.
+        <br/><br/>
+        <b><tt>@include/@exclude</tt></b>: Cách cũ để quyết định xem một kịch bản có nên được thực thi hay không.
+        <br/><br/>
+        <b><tt>@version</tt></b>: Phiên bản của userscript.
+        <br/><br/>
+        <b><tt>@description</tt></b>: Mô tả về userscript.
+        <br/><br/>
+        <b><tt>@author</tt></b>: Tác giả của userscript.
+        <br/><br/>
+        <b><tt>@require</tt></b>: Yêu cầu của userscript. Ví dụ, <br/><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br/><br/>
+        <b><tt>@run-at</tt></b>: Hãy quyết định thời điểm kịch bản sẽ được thực thi. <tt>document-start</tt> được sử dụng để chèn các đoạn mã trước khi trang tải, <tt>document-end</tt> được sử dụng để chèn các đoạn mã script sau khi trang đã tải xong, <tt>document-idle</tt> được sử dụng để chèn các đoạn mã script sau khi trang không hoạt động.
+        <br/><br/>
+        <b><tt>@grant</tt></b>: Hãy chỉ định những API GM_* đặc biệt nào cần được cấp phép và có thể được sử dụng khi tập lệnh được thực thi.<br/>
+        <br/><br/>
+        <b><tt>@downloadURL</tt></b>: URL nơi có thể tải xuống tập lệnh.
+        <br/><br/>
+        <b><tt>@supportURL</tt></b>: URL hỗ trợ của userscript.
+        <br/><br/>
+        <b><tt>@homepageURL</tt></b>: URL trang chủ của userscript.
+        <br/><br/>
+        <b>GM_* APIs</b><br/>
+        <tt>GM_*</tt> là một nhóm các API đặc biệt do Via cung cấp. Các API đặc biệt hiện được hỗ trợ bao gồm: <br/>
         <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
-        <br /><br />
-        <b>Matching</b><br />
-        <tt>@match</tt> defines a URL matching rule. <tt>@exclude-match</tt> defines a match rule but used to exclude the matched URLs, similar to <tt>@exclude</tt>.
-        <br /><br />
-        For example:<br />
+        <br/><br/>
+        <b>Ghép nối </b><br/>
+        <tt>@match</tt> định nghĩa một quy tắc khớp URL.<tt>@exclude-match</tt> định nghĩa một quy tắc khớp nhưng được sử dụng để loại trừ các URL khớp, tương tự như <tt>@exclude</tt>.
+        <br/><br/>
+        Ví dụ:<br/>
         <tt>
-        // @match https://www.google.com/something <br />
-        // @match https://www.google.com/any/* <br />
+        // @match https://www.google.com/something <br/>
+        // @match https://www.google.com/any/* <br/>
         // @exclude-match https://www.google.com/any/not_me
         </tt>
-        <br /><br />
+        <br/><br/>
     ]]></string>
     <string name="toast_install_script_successfully">Cài đặt \"%1$s\" thành công!</string>
     <string name="toast_install_script_failed_unknown">Cài đặt \"%1$s\" không thành công!</string>
@@ -716,7 +716,7 @@
     <string name="default_description">%1$s (mặc định)</string>
     <string name="grant">Cho phép</string>
     <string name="skins">Giao diện</string>
-    <string name="load_skin">Tair giao diện</string>
+    <string name="load_skin">Tải giao diện</string>
     <string name="load_skin_failed">Tải giao diện không thành công</string>
     <string name="skin_changed">Đã thay đổi giao diện</string>
     <string name="import_script_from_url">Nhập tập lệnh từ URL</string>
@@ -814,7 +814,7 @@
     <string name="recently_closed_tabs">Thẻ đã đóng gần đây</string>
     <string name="tabs">Thẻ</string>
     <string name="tab_settings">Cài đặt thẻ</string>
-    <string name="show_toast_to_undo_closing_tab">Hiển thị thông báo nhanh để hoàn tác việc đóng thẻ</string>
+    <string name="show_toast_to_undo_closing_tab">Hiển thị thông báo đóng thẻ</string>
     <string name="show_toast_to_undo_closing_tab_description">Thông báo nhanh không hiển thị nếu chế độ ẩn danh bật</string>
     <string name="open_all">Mở tất cả</string>
     <string name="expand_web_content_automatically">Tự động mở rộng nội dung trang web</string>
@@ -826,12 +826,12 @@
     <string name="fastforward">Nhanh về phía trước</string>
     <string name="rewind">Tua lại</string>
     <string name="add_to_home_screen">Thêm vào màn hình chính</string>
-    <string name="certificate_detail_fingerprints"><![CDATA[        <b>SHA-256 FINGERPRINTS</b><br />
-        <b>Certificate</b><br />
+    <string name="certificate_detail_fingerprints"><![CDATA[        <b>DẤU VÂN TAY SHA-256</b><br/>
+        <b>Giấy chứng nhận</b><br/>
         %1$s
-        <br /><b>Public Key</b><br />
+        <br/><b>Khóa công khai</b><br/>
         %2$s
-        <br />
+        <br/>
     ]]></string>
     <string name="show_reader">Hiển thị trình đọc</string>
     <string name="hide_reader">Ẩn trình đọc</string>
@@ -853,7 +853,7 @@
     <string name="enable_draggable_scrollbar">Bật thanh cuộn có thể kéo</string>
     <string name="file_download_completed">đã tải %1$s</string>
     <string name="file_download_failed">Tải xuống %1$s không thành công</string>
-    <string name="require_confirmation_to_enable_reader_mode">Yêu cầu xác nhận để hiển thị cho người đọc</string>
+    <string name="require_confirmation_to_enable_reader_mode">Yêu cầu xác nhận hiển thị chế độ đọc</string>
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Hiển thị menu đầu tiên khi nhấp vào biểu tượng chế độ đọc của thanh địa chỉ</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Hiển thị trình đọc khi nhấp vào biểu tượng chế độ trình đọc của thanh địa chỉ</string>
     <string name="appearance">Giao diện</string>
@@ -867,7 +867,7 @@
     <string name="mark_as_ad_guide">Vui lòng nhấp vào khu vực quảng cáo để đánh dấu nó</string>
     <string name="log_out_webdav">Đăng xuất</string>
     <string name="run_at">Chạy tại</string>
-    <string name="matches">Phù Hợp</string>
+    <string name="matches">Phù hợp</string>
     <string name="match">Phù hợp</string>
     <string name="add_match">Thêm phù hợp</string>
     <string name="excludes">Loại trừ</string>
@@ -982,7 +982,7 @@
     <string name="var_webpage_title_description">Tiêu đề của trang web.</string>
     <string name="var_webpage_content_description">Nội dung văn bản đơn giản của trang web.</string>
     <string name="var_input_description">Nội dung hộp đầu vào.</string>
-    <string name="var_time_description">Thời gian hiện tại yyyy-MM-dd HH:mm:ss EEEE (ZZZZ).</string>
+    <string name="var_time_description">Thời gian hiện tại dd-MM-yyyy HH:mm:ss EEEE (ZZZZ).</string>
     <string name="content">Nội dung</string>
     <string name="casual_chat">Trò chuyện bình thường</string>
     <string name="copy_all">Chép tất cả</string>
