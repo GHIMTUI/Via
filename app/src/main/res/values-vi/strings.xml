@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">Via</string>
     <string name="action_new_tab">Tab mới</string>
-    <string name="action_open_in_new">Mở trong Tab mới</string>
+    <string name="action_open_in_new">Mở trong tab mới</string>
     <string name="action_save_img">Lưu ảnh</string>
     <string name="action_share">Chia sẻ</string>
     <string name="action_history">Lịch sử</string>
@@ -18,7 +18,7 @@
     <string name="action_copy_link_text">Sao chép văn bản liên kết</string>
     <string name="action_tools">Công cụ</string>
     <string name="settings">Cài đặt</string>
-    <string name="location">Truy cập Vị trí</string>
+    <string name="location">Truy cập vị trí</string>
     <string name="password">Lưu mật khẩu</string>
     <string name="donate">Ủng hộ</string>
     <string name="donate_details">Nếu bạn thích trình duyệt Via, bạn có thể đóng góp để hỗ trợ chúng tôi.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
@@ -212,7 +212,7 @@
     <string name="toolbar_settings_hint">Nhấp (trượt) nút dưới đây để thiết lập hành động khi bạn nhấn giữ(trượt), nhấn giữ để xem giá trị đã được thiết lập.</string>
     <string name="action_modify">Chỉnh sửa</string>
     <string name="operation_hint">Cử chỉ, hành động&#8230;</string>
-    <string name="adblock_info">%1$d quảng cáo đã bị chặn, %2$s đã lưu.</string>
+    <string name="adblock_info">%1$d quảng cáo đã bị chặn, tiết kiệm %2$s</string>
     <string name="disable">Vô hiệu hóa</string>
     <string name="ui_traditional">Truyền thống</string>
     <string name="color_mode_hint">Thanh địa chỉ màu sắc khi duyệt web</string>
