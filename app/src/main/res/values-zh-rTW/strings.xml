@@ -323,7 +323,7 @@
     <string name="agreement_message_short">你需要同意並接受全部條款後才能開始使用我們的服務。</string>
     <string name="agree_and_continue">同意並繼續</string>
     <string name="disagree">不同意</string>
-    <string name="exit">關閉應用程式</string>
+    <string name="exit">關閉</string>
     <string name="delete_account">登出帳號</string>
     <string name="delete_account_hint">從伺服器刪除帳號</string>
     <string name="delete_account_request_submitted">帳號刪除申請已送出。</string>

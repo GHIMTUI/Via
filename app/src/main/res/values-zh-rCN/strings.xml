@@ -106,6 +106,7 @@
     <string name="operation_bottom">滑到底部</string>
     <string name="operation_input">输入网址</string>
     <string name="operation_openbookmark">打开书签</string>
+    <string name="operation_open_bookmarks_dialog">打开书签对话框</string>
     <string name="operation_openhistory">打开历史</string>
     <string name="operation_closetab">关闭标签</string>
     <string name="operation_lasttab">上一个标签</string>
@@ -324,7 +325,7 @@
     <string name="agreement_message_short">你需要同意并接受全部条款后才能开始使用我们的服务。</string>
     <string name="agree_and_continue">同意并继续</string>
     <string name="disagree">不同意</string>
-    <string name="exit">退出应用</string>
+    <string name="exit">退出</string>
     <string name="delete_account">注销账号</string>
     <string name="delete_account_hint">从服务器删除账号</string>
     <string name="delete_account_request_submitted">账号删除申请已提交。</string>
@@ -1048,4 +1049,16 @@
     <string name="open_option_pdf_preview">预览 PDF</string>
     <string name="image_saved_to_gallery">图片已保存到图库</string>
     <string name="action_download_image">下载图片</string>
+    <string name="save_and_exit">保存并退出</string>
+    <string name="playback_speed_description">播放速度，当前 %1$s 倍</string>
+    <string name="tab_position_description">第 %1$d 个标签，共 %2$d 个</string>
+    <string name="accessibility_selected">已选择</string>
+    <string name="accessibility_not_selected">未选择</string>
+    <string name="move_tab_previous">将标签向前移动</string>
+    <string name="move_tab_next">将标签向后移动</string>
+    <string name="key_is_set_as_value">已设置 %1$s 为 %2$s</string>
+    <string name="search_shortcut">搜索快捷词</string>
+    <string name="search_shortcut_description">输入“快捷词 + 空格 + 搜索内容”即可使用此引擎搜索，例如“g Via”。快捷词支持最多 16 个不含空格的字符，留空则禁用。</string>
+    <string name="search_shortcut_invalid">快捷词无效</string>
+    <string name="search_shortcut_duplicate">该快捷词已被使用</string>
 </resources>

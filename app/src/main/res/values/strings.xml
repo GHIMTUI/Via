@@ -105,6 +105,7 @@
     <string name="operation_bottom">Scroll to bottom</string>
     <string name="operation_input">Input URL</string>
     <string name="operation_openbookmark">Open bookmark</string>
+    <string name="operation_open_bookmarks_dialog">Open bookmarks dialog</string>
     <string name="operation_openhistory">Open history</string>
     <string name="operation_closetab">Close tab</string>
     <string name="operation_lasttab">Last tab</string>
@@ -1063,4 +1064,16 @@
     <string name="open_option_pdf_preview">Preview PDF</string>
     <string name="image_saved_to_gallery">Image saved to gallery</string>
     <string name="action_download_image">Download image</string>
+    <string name="save_and_exit">Save &amp; Exit</string>
+    <string name="playback_speed_description">Playback speed, %1$s times</string>
+    <string name="tab_position_description">Tab %1$d of %2$d</string>
+    <string name="accessibility_selected">Selected</string>
+    <string name="accessibility_not_selected">Not selected</string>
+    <string name="move_tab_previous">Move tab earlier</string>
+    <string name="move_tab_next">Move tab later</string>
+    <string name="key_is_set_as_value">%1$s is set as %2$s</string>
+    <string name="search_shortcut">Search shortcut</string>
+    <string name="search_shortcut_description">Enter “shortcut + space + query” to search with this engine, for example “g Via”. Use up to 16 characters without spaces, or leave it empty to disable the shortcut.</string>
+    <string name="search_shortcut_invalid">Invalid shortcut</string>
+    <string name="search_shortcut_duplicate">This shortcut is already in use</string>
 </resources>
