@@ -1061,4 +1061,6 @@
     <string name="search_shortcut_description">输入“快捷词 + 空格 + 搜索内容”即可使用此引擎搜索，例如“g Via”。快捷词支持最多 16 个不含空格的字符，留空则禁用。</string>
     <string name="search_shortcut_invalid">快捷词无效</string>
     <string name="search_shortcut_duplicate">该快捷词已被使用</string>
+    <string name="site_conf_exists">%1$s 的网站设定已存在。</string>
+    <string name="disable_predictive_back_gesture">禁用预测返回手势</string>
 </resources>
