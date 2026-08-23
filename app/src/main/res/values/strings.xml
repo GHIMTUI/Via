@@ -1076,4 +1076,6 @@
     <string name="search_shortcut_description">Enter “shortcut + space + query” to search with this engine, for example “g Via”. Use up to 16 characters without spaces, or leave it empty to disable the shortcut.</string>
     <string name="search_shortcut_invalid">Invalid shortcut</string>
     <string name="search_shortcut_duplicate">This shortcut is already in use</string>
+    <string name="site_conf_exists">A site configuration for %1$s already exists.</string>
+    <string name="disable_predictive_back_gesture">Disable predictive back gesture</string>
 </resources>
